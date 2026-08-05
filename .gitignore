@@ -1,0 +1,5 @@
+*.db
+amg_enterprise.db
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
